@@ -11,7 +11,7 @@ Until now this project is only for text generating but anyone can extend it for 
 ```PHP
 require_once 'PHPalm.php';
  ```
-4. use the `Llmer` object (example) [Link for the API](makersuite.google.com)
+4. use the `Llmer` object (example) [Link for the API](https://developers.generativeai.google/tutorials/setup))
 ```PHP
 <?php
 $suggester = new Llmer("YOUR_API_KEY");
